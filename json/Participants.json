@@ -1,0 +1,24 @@
+{
+	"Participants_info":[
+		{
+			"passportNumber":"1",
+			"firstName":"Eden",
+			"lastName":"Sharvit",
+			"vacationCycleID":"3",
+			"roomNumber":"0",
+			"FlightID":"0",
+			"dateOfBirth":"15\/01\/1990",
+			"transportationNumber":"10"
+		},
+		{
+			"passportNumber":"3",
+			"firstName":"Yaniv",
+			"lastName":"masana",
+			"vacationCycleID":"3",
+			"roomNumber":"0",
+			"FlightID":"0",
+			"dateOfBirth":"19\/05\/1998",
+			"transportationNumber":"0"
+		}
+	]
+}
